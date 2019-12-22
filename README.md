@@ -1,2 +1,2 @@
-# Applied-DS-Capstone-Week3
-Applied DS Capstone Week3 Assignments
+# Applied-DS-Capstone
+Applied DS Capstone Assignments
